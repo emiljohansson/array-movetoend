@@ -1,6 +1,6 @@
 {
   "name": "array-movetoend",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Moves an item the array to the end of the array.",
   "main": "index.js",
   "scripts": {
