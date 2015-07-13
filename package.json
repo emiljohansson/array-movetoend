@@ -1,0 +1,20 @@
+{
+  "name": "array-movetoend",
+  "version": "0.0.0",
+  "description": "Moves an item the array to the end of the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "array",
+    "move",
+    "modify",
+    "end"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com> (emiljohansson.se)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
