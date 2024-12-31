@@ -36,4 +36,4 @@ Position where the item is.
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © Emil Johansson
